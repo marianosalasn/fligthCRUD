@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xmlModel>
+    <ciudades>
+        <ciudades>
+            <code>SJO</code>
+            <gmt>-6</gmt>
+            <nombre>San Jose</nombre>
+        </ciudades>
+        <ciudades>
+            <code>LND</code>
+            <gmt>0</gmt>
+            <nombre>Londres</nombre>
+        </ciudades>
+        <ciudades>
+            <code>CRC</code>
+            <gmt>8</gmt>
+            <nombre>Croacia</nombre>
+        </ciudades>
+        <ciudades>
+            <code>NIC</code>
+            <gmt>-8</gmt>
+            <nombre>Nicaragua</nombre>
+        </ciudades>
+        <ciudades>
+            <code>ASD</code>
+            <gmt>-8</gmt>
+            <nombre>Arsenia</nombre>
+        </ciudades>
+    </ciudades>
+    <vuelos>
+        <ListaVuelos/>
+    </vuelos>
+</xmlModel>
